@@ -13,7 +13,7 @@ Then follow the provided options
 * Github.com
 * HTTPS
 * Login with web browser
-* Copy the ont-time code
+* Copy the one-time code
 * Press enter to open the github web page and paste the one-time into it
 
 # Cloning the repo
