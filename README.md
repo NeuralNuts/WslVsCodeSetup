@@ -1,4 +1,4 @@
-# WslVsCodeSetup
+# Wsl Vs Code And Git CLI Setup
 
 # Installing git & github
 ```console
